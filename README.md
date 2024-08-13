@@ -1,5 +1,5 @@
 # Zig RPG
-<img src="https://github.com/ziglang/logo/blob/master/zig-mark.svg" alt="Zig Logo" width="150"/>
+<img src="https://github.com/ziglang/logo/blob/master/zig-mark.svg" alt="Zig Logo" width="300"/>
 ## Description
 
 This project is a simple RPG game developed in Zig. When you run the program, it displays the created characters and their attributes. The program also simulates a battle between a hero and an enemy.
@@ -29,7 +29,7 @@ This project is a simple RPG game developed in Zig. When you run the program, it
 
 3. **Run the program:**
 
-   ![Zig Logo](https://github.com/ziglang/logo/blob/master/zero.svg)
+   <img src="https://github.com/ziglang/logo/blob/master/zero.svg" alt="zig animation" width="200">
 
    After compiling, execute the program with:
 
