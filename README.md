@@ -15,7 +15,7 @@ This project is a simple RPG game developed in Zig. When you run the program, it
 1. **Clone the repository:**
 
    ```sh
-   git clone <repository-URL>
+   git clone <https://github.com/WesleyBSa/zig-rpg.git>
    cd zig-rpg
    ```
 
@@ -28,6 +28,8 @@ This project is a simple RPG game developed in Zig. When you run the program, it
    ```
 
 3. **Run the program:**
+
+   ![Zig Logo](https://github.com/ziglang/logo/blob/master/zero.svg)
 
    After compiling, execute the program with:
 
